@@ -24,5 +24,4 @@
 - English, Telugu, Hindi  
 
 ## 📫 Connect with Me  
-- [LinkedIn](https://www.linkedin.com/in/korra-kiran-482998286/)  
-- [Email](kirankorra831@gmail.com)  
+- [LinkedIn](https://www.linkedin.com/in/korra-kiran-482998286/)   
