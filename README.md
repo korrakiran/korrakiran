@@ -7,7 +7,7 @@
 - **Programming & Libraries:** Python, Pandas, NumPy, Matplotlib  
 - **Machine Learning:** Scikit-learn, XGBoost, Classification & Regression Models  
 - **Deep Learning:** Neural Networks, MediaPipe  
-- **Computer Vision & Audio:** OpenCV, gTTS, Pygame  
+- **Computer Vision & Audio:** OpenCV, gTTS
 - **Other:** Data Preprocessing, Model Deployment Basics  
 
 ## Achievements  
