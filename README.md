@@ -37,8 +37,5 @@ I’m currently working on Machine Learning and Data Science projects, focusing 
 ## Top Contributed Repositories
 ![Top Repos](https://github-contributor-stats.vercel.app/api?username=korrakiran&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
----
-
-![Profile Views](https://visitcount.itsvg.in/api?id=korrakiran&icon=0&color=0)
 
 
