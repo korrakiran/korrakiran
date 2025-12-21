@@ -1,69 +1,29 @@
 # Korra Kiran
 
-**Artificial Intelligence & Machine Learning Student**
+# 💫 About Me:
+🔭 I’m currently working on Machine Learning and Data Science projects, focusing on real-world datasets and model evaluation.<br>	•	🤝 I’m looking to collaborate on AI/ML, Data Science, and open-source projects.<br>	•	🆘 I’m looking for help with deep learning optimization, model deployment, and scalable ML pipelines.<br>	•	🌱 I’m currently learning Deep Learning, Neural Networks, and advanced ML techniques.<br>	•	💬 Ask me about Python, pandas, NumPy, matplotlib, machine learning algorithms, and data analysis.<br>	•	⚡ Fun fact: I enjoy turning messy data into meaningful insights and visual stories.<br>
 
-A passionate AIML student eager to tackle real-world challenges with data-driven solutions. Possessing hands-on experience in machine learning and deep learning projects.
 
-📍 Hyderabad, Telangana, India  
-📞 +91 86396 24488  
-📧 kirankorra831@gmail.com  
-🔗 [GitHub](https://github.com/korrakiran) | [LinkedIn](https://www.linkedin.com/in/korra-kiran-482998286/)
+## 🌐 Socials:
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirankorra831@gmail.com) 
 
----
+# 💻 Tech Stack:
+![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Anaconda](https://img.shields.io/badge/Anaconda-%2344A833.svg?style=for-the-badge&logo=anaconda&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white)
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=korrakiran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://nirzak-streak-stats.vercel.app/?user=korrakiran&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=korrakiran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-## 🎓 Education
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=korrakiran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
-**Vidya Jyothi Institute of Technology, Hyderabad**  
-*B.Tech in Artificial Intelligence*  
-August 2023 - Ongoing | CGPA: 8.09
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
-**Sri Chaitanya, Hyderabad**  
-*Intermediate (MPC)*  
-June 2021 - May 2023 | Grade: 88.3%
-
-**Oasis School, Hyderabad**  
-*Schooling*  
-June 2009 - June 2021 | Grade: 73%
+### 🔝 Top Contributed Repo
+![](https://github-contributor-stats.vercel.app/api?username=korrakiran&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
 ---
+[![](https://visitcount.itsvg.in/api?id=korrakiran&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 💻 Skills
-
-- **Programming & Libraries:** Python, Pandas, NumPy, Matplotlib
-- **Machine Learning:** Scikit-learn, XGBoost, Classification & Regression Models
-- **Deep Learning:** Neural Networks, MediaPipe
-- **Computer Vision & Audio:** OpenCV, gTTS
-- **Other:** Data Preprocessing, Model Deployment Basics
-
----
-
-## 🚀 Projects
-
-### Fingertip Color Detection with Real-Time Text-to-Speech
-- Integrated OpenCV and MediaPipe for precise color detection and tracking of fingertip movements
-- Implemented gTTS (Google Text-to-Speech) for audible feedback, ensuring it activates exclusively upon changes in detected color to avoid redundancy
-- Designed for applications requiring intuitive, non-visual interaction, enhancing accessibility and user engagement
-
-### Machine Learning & Deep Learning Projects
-- **Heart Attack Prediction Model**
-- **Celebrity Face Recognition System**
-
----
-
-## 🏆 Awards
-
-- **Best Student** in Cybersecurity Hackathon
-- **2nd Place** in Reskill Hackathon
-- **Finalist** in Bizzhack Ideathon
-
----
-
-## 🌐 Languages
-
-English, Telugu, Hindi
-
----
-
-## 📫 Connect with Me
-
-Feel free to reach out for collaborations or opportunities in AI/ML!
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
