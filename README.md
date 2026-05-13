@@ -49,13 +49,18 @@ WhatsApp-based ERP system for small Indian retailers supporting 20+ Indian langu
 Self-hosted private cloud on headless Mac M1 Air using Docker, Nextcloud, and Tailscale VPN for zero-trust remote access. Achieved 100% uptime with zero monthly cost compared to Google Drive or Dropbox.
 
 **Tech Stack:** Docker, Nextcloud, Tailscale, macOS, Self-hosting
+
 # 📊 GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=korrakiran&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+<div align="center">
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=korrakiran&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=korrakiran&theme=tokyonight&hide_border=true)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=korrakiran&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+</div>
 
 
 ## GitHub Trophies
