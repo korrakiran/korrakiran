@@ -29,8 +29,26 @@ AI/ML and Deep Learning enthusiast focused on building real-world data science s
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
 # Projects:
-### Private Cloud Server
-Self-hosted private cloud server on a headless Mac M1 Air using Docker, Nextcloud, and Tailscale VPN for zero-trust remote access. Achieved 100% uptime with zero monthly cost compared to Google Drive or Dropbox.
+
+### 🎓 Smart Classroom - Federated Learning Analytics
+Privacy-preserving educational analytics system using federated learning (FedAvg) to analyze student engagement without centralizing sensitive data. Built with Flask FL server, struggle-reason diagnosis pipeline, and interactive dashboard with WHY/WHAT insight panels. Published IEEE-format research paper.
+
+**Tech Stack:** Python, TensorFlow, Flask, Federated Learning, Sarvam AI, REST APIs
+
+### 🛒 BazaarBot - WhatsApp MSME Procurement Agent
+WhatsApp-native reverse auction platform for Indian MSMEs built on LangGraph. Enables small businesses to procure supplies through conversational AI with automated vendor matching and price negotiation. Developed for Cognizant Technoverse Hackathon 2026.
+
+**Tech Stack:** Python, LangGraph, LangChain, WhatsApp Business API, NLP
+
+### 🏪 Vypar - Multilingual WhatsApp ERP
+WhatsApp-based ERP system for small Indian retailers supporting 20+ Indian languages via Sarvam AI. Zero-friction onboarding through familiar messaging interface, targeting underserved MSME market.
+
+**Tech Stack:** Python, Sarvam AI, WhatsApp Business API, MongoDB, Docker
+
+### ☁️ Private Cloud Server
+Self-hosted private cloud on headless Mac M1 Air using Docker, Nextcloud, and Tailscale VPN for zero-trust remote access. Achieved 100% uptime with zero monthly cost compared to Google Drive or Dropbox.
+
+**Tech Stack:** Docker, Nextcloud, Tailscale, macOS, Self-hosting
 
 # GitHub Stats:
 ![](https://github-readme-stats.vercel.app/api?username=korrakiran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
