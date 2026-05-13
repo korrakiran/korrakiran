@@ -30,27 +30,27 @@ AI/ML and Deep Learning enthusiast focused on building real-world data science s
 
 # Projects:
 
-### 🎓 Smart Classroom - Federated Learning Analytics
+### Smart Classroom - Federated Learning Analytics
 Privacy-preserving educational analytics system using federated learning (FedAvg) to analyze student engagement without centralizing sensitive data. Built with Flask FL server, struggle-reason diagnosis pipeline, and interactive dashboard with WHY/WHAT insight panels. Published IEEE-format research paper.
 
 **Tech Stack:** Python, TensorFlow, Flask, Federated Learning, Sarvam AI, REST APIs
 
-### 🛒 BazaarBot - WhatsApp MSME Procurement Agent
+### BazaarBot - WhatsApp MSME Procurement Agent
 WhatsApp-native reverse auction platform for Indian MSMEs built on LangGraph. Enables small businesses to procure supplies through conversational AI with automated vendor matching and price negotiation. Developed for Cognizant Technoverse Hackathon 2026.
 
 **Tech Stack:** Python, LangGraph, LangChain, WhatsApp Business API, NLP
 
-### 🏪 Vypar - Multilingual WhatsApp ERP
+### Vypar - Multilingual WhatsApp ERP
 WhatsApp-based ERP system for small Indian retailers supporting 20+ Indian languages via Sarvam AI. Zero-friction onboarding through familiar messaging interface, targeting underserved MSME market.
 
 **Tech Stack:** Python, Sarvam AI, WhatsApp Business API, MongoDB, Docker
 
-### ☁️ Private Cloud Server
+### Private Cloud Server
 Self-hosted private cloud on headless Mac M1 Air using Docker, Nextcloud, and Tailscale VPN for zero-trust remote access. Achieved 100% uptime with zero monthly cost compared to Google Drive or Dropbox.
 
 **Tech Stack:** Docker, Nextcloud, Tailscale, macOS, Self-hosting
 
-# 📊 GitHub Stats:
+# GitHub Stats:
 
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=korrakiran&theme=tokyonight&hide_border=true)
