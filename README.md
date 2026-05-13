@@ -2,7 +2,10 @@
 AI/ML and Deep Learning enthusiast focused on building real-world data science solutions. Currently exploring model deployment, scalable ML pipelines, and self-hosted infrastructure. Always open to collaborating on interesting AI/ML and open-source projects.
 
 ## Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirankorra831@gmail.com) 
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:kirankorra831@gmail.com)
+[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/korrakiran/korrakiran)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/korra-kiran-482998286/)
+[![Chess.com](https://img.shields.io/badge/Chess.com-81B64C?logo=chessdotcom&logoColor=white)](https://www.chess.com/member/korrakiran1)
 
 # Tech Stack:
 
