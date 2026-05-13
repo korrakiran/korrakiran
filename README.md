@@ -67,9 +67,7 @@ Self-hosted private cloud on headless Mac M1 Air using Docker, Nextcloud, and Ta
 
 # GitHub Stats:
 
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=korrakiran&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=korrakiran&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=korrakiran&theme=tokyonight&hide_border=true)
 
 ## GitHub Trophies
 ![Trophies](https://github-profile-trophy.vercel.app/?username=korrakiran&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
