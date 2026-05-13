@@ -49,11 +49,19 @@ WhatsApp-based ERP system for small Indian retailers supporting 20+ Indian langu
 Self-hosted private cloud on headless Mac M1 Air using Docker, Nextcloud, and Tailscale VPN for zero-trust remote access. Achieved 100% uptime with zero monthly cost compared to Google Drive or Dropbox.
 
 **Tech Stack:** Docker, Nextcloud, Tailscale, macOS, Self-hosting
+# 📊 GitHub Stats:
 
-# GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=korrakiran&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=korrakiran&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=korrakiran&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=korrakiran&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=korrakiran&theme=tokyonight&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=korrakiran&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+
+## 🏆 GitHub Trophies
+![Trophies](https://github-profile-trophy.vercel.app/?username=korrakiran&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&row=2&column=4)
+
+### 💭 Random Dev Quote
+![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
 
 ## GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=korrakiran&theme=radical&no-frame=false&no-bg=false&margin-w=4)
