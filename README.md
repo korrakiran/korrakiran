@@ -43,28 +43,30 @@ AI/ML and Deep Learning enthusiast focused on building real-world data science s
 
 # Projects:
 
-### Smart Classroom - Federated Learning Analytics
-Privacy-preserving educational analytics system using federated learning (FedAvg) to analyze student engagement without centralizing sensitive data. Built with Flask FL server, struggle-reason diagnosis pipeline, and interactive dashboard with WHY/WHAT insight panels. Published IEEE-format research paper.
+# Projects:
 
-**Tech Stack:** Python, TensorFlow, Flask, Federated Learning, Sarvam AI, REST APIs
+### ClarityAI Engine — Conversational AI Database Analyst
+AI-powered business intelligence agent using a custom LangGraph state machine and Sarvam AI (sarvam-30b) for natural language to optimised SQL conversion. Features a glassmorphic React dashboard with real-time SSE thinking streams, Apache ECharts visualisations, and C-suite security guardrails enforcing read-only DB access.
 
-### BazaarBot - WhatsApp MSME Procurement Agent
-WhatsApp-native reverse auction platform for Indian MSMEs built on LangGraph. Enables small businesses to procure supplies through conversational AI with automated vendor matching and price negotiation. Developed for Cognizant Technoverse Hackathon 2026.
+**Tech Stack:** Python, LangGraph, Sarvam AI, PostgreSQL, React.js, FastAPI, Apache ECharts
 
-**Tech Stack:** Python, LangGraph, LangChain, WhatsApp Business API, NLP
+### BazaarBot — WhatsApp B2B Procurement Agent
+WhatsApp-native reverse auction marketplace for Indian MSMEs built on LangGraph and Google Gemini 2.5 Flash. Integrates MongoDB geospatial queries ($geoNear) to find wholesale suppliers within a 100km radius and returns top 3 options ranked by price and distance.
 
-### Vypar - Multilingual WhatsApp ERP
-WhatsApp-based ERP system for small Indian retailers supporting 20+ Indian languages via Sarvam AI. Zero-friction onboarding through familiar messaging interface, targeting underserved MSME market.
+**Tech Stack:** Python, FastAPI, LangGraph, Gemini 2.5 Flash, MongoDB, WhatsApp Business API
+
+### Vypar — WhatsApp-Based ERP Platform (Production)
+Full-stack WhatsApp ERP for micro-retailers in India supporting 20+ regional languages via Sarvam AI NLP. Automates inventory updates and PDF sales report generation, reducing manual bookkeeping by ~80%.
 
 **Tech Stack:** Python, Sarvam AI, WhatsApp Business API, MongoDB, Docker
 
-### TrustFundX - Blockchain Grant Platform
-Algorand-based transparent grant distribution platform. **1st Place Winner** at HackXtream hackathon with team TigerClaw.
+### Smart Classroom — Federated Learning System
+Privacy-preserving federated learning environment using FedAvg aggregation via Flask REST API. Trained topic-difficulty predictive models across 16 subjects and 6 grade levels with 100% student data privacy — no central data transfers.
 
-**Tech Stack:** Algorand, Blockchain, Python
+**Tech Stack:** Python, TensorFlow, Flask, Federated Learning, Sarvam AI, REST APIs
 
-### Private Cloud Server
-Self-hosted private cloud on headless Mac M1 Air using Docker, Nextcloud, and Tailscale VPN for zero-trust remote access. Achieved 100% uptime with zero monthly cost compared to Google Drive or Dropbox.
+### Private Cloud Server — Self-Hosted Infrastructure
+Headless Mac M1 configured as a secure local server using Docker, Nextcloud, and Tailscale VPN for zero-trust remote access. Achieved 100% uptime with zero monthly cloud storage cost.
 
 **Tech Stack:** Docker, Nextcloud, Tailscale, macOS, Self-hosting
 
