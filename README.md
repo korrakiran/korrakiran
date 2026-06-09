@@ -79,7 +79,7 @@ Personal full-stack learning dashboard for tracking progress across Python, SQL,
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=korrakiran&theme=tokyonight&hide_border=true)
 
 ## GitHub Trophies
-![Stats](https://github-readme-stats.vercel.app/api?username=korrakiran&theme=tokyonight&show_icons=true&hide_border=true)
+![Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=korrakiran&theme=tokyo-night&hide_border=true)
 
 ### Random Dev Quote
 ![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
