@@ -41,7 +41,6 @@ AI/ML and Deep Learning enthusiast focused on building real-world data science s
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white) 
 ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white)
 
-# Projects:
 
 # Projects:
 
@@ -69,6 +68,11 @@ Privacy-preserving federated learning environment using FedAvg aggregation via F
 Headless Mac M1 configured as a secure local server using Docker, Nextcloud, and Tailscale VPN for zero-trust remote access. Achieved 100% uptime with zero monthly cloud storage cost.
 
 **Tech Stack:** Docker, Nextcloud, Tailscale, macOS, Self-hosting
+
+### Everything — AI/ML Revision Roadmap Tracker
+Personal full-stack learning dashboard for tracking progress across Python, SQL, Data Science, Machine Learning, LangChain, LangGraph, and LangSmith. Features JWT-authenticated access, per-topic file uploads backed by GitHub as persistent storage, and MongoDB Atlas for metadata — deployed on Vercel.
+
+**Tech Stack:** React, TypeScript, Vite, FastAPI, MongoDB, GitHub, Vercel
 
 # GitHub Stats:
 
